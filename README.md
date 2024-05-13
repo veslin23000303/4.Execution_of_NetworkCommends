@@ -1,9 +1,8 @@
 # EX.NO:4.                Execution of NetworkCommands
-
-## AIM:
-Use of Network commands in Real Time environment
 ### NAME: KARTHIKEYAN R
 ### REG.NO: 212222240046
+## AIM:
+Use of Network commands in Real Time environment
 ## Software:
 Command Prompt And Network Protocol Analyzer
 
@@ -20,7 +19,7 @@ This commands includes</br>
 • Other IP Commands e.g. show ip route etc.</br>
 
 ## Output
-![4th](https://github.com/Yuvaranithulasingam/4.Execution_of_NetworkCommends/assets/121418522/f855c1a7-b4a0-44d9-9439-4fd35caa9cdd)
+### ![4th](https://github.com/Yuvaranithulasingam/4.Execution_of_NetworkCommends/assets/121418522/f855c1a7-b4a0-44d9-9439-4fd35caa9cdd)
 
 ## Result
 Thus Execution of Network commands performed successfully.
