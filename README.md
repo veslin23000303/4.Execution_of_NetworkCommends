@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-### NAME: KARTHIKEYAN R
-### REG.NO:212222240046
+### NAME: VESLIN ANISH A
+### REG.NO:212223240175
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
@@ -67,13 +67,16 @@ print(result,unans)
 ## OUTPUT
 ## Ping command
 ## Client
-![image](https://github.com/Yuvasreemuthusamy/4.Execution_of_NetworkCommends/assets/144870887/a71fd251-4981-4a47-895e-397385132009)
+![Screenshot 2024-05-15 103812](https://github.com/veslin23000303/4.Execution_of_NetworkCommends/assets/151148539/9f832446-bca7-4702-94c8-38a5677d2111)
+
 
 ## Server
-![image](https://github.com/Yuvasreemuthusamy/4.Execution_of_NetworkCommends/assets/144870887/798a1a24-2784-46a9-916a-ec8552ecd907)
+![Screenshot 2024-05-15 103820](https://github.com/veslin23000303/4.Execution_of_NetworkCommends/assets/151148539/359dcf70-8d71-4426-9965-0c0c3ad5855c)
+
 
 ## Tranceroute command
-![image](https://github.com/Yuvasreemuthusamy/4.Execution_of_NetworkCommends/assets/144870887/ce4aa790-9cc7-427a-8860-e4a5f40b1076)
+![Screenshot 2024-05-15 103830](https://github.com/veslin23000303/4.Execution_of_NetworkCommends/assets/151148539/2d5767dc-31ef-4c5f-bb47-66bb52cdb418)
+
 
 ## Result
 Thus Execution of Network commands Performed 
